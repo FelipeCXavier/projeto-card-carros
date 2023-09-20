@@ -1,4 +1,4 @@
-# projeto-card-carros
+# Projeto-card-carros 🚗
 Este repositório apresenta um projeto desenvolvido durante um curso na Jornada Dev, 
 enfocando o desenvolvimento front-end. Utiliza tecnologias essenciais, como HTML e 
 JavaScript, junto com o framework Bootstrap, para criar interfaces dinâmicas e responsivas. 
